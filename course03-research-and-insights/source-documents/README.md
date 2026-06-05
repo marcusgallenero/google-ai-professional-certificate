@@ -3,6 +3,8 @@
 This directory contains the technical documents used to ground the NotebookLM workspace.
 These files prevent model hallucination by enforcing operational constraints on the AI.
 
+*note: I do not claim to own any of these works. All credit goes to these super smart people for making these open resources.*
+
 ## 📋 Document Registry 
 
 ### 1. PX4 User Guide - Computer Vision: Obstacle Avoidance 
@@ -10,7 +12,7 @@ These files prevent model hallucination by enforcing operational constraints on 
 - **Source**: [PX4 User Guide - Obstacle Avoidance](https://docs.px4.io/v1.13/en/computer_vision/)
 
 ### 2. PX4 Avoidance Repository 
-- **Format**: Markdown (.md)
+- **Format**: Markdown (.md) **Access by this link**
 - **Source**: [PX4 Avoidance Repository](https://github.com/PX4/PX4-Avoidance)
 
 ### 3. MAVLINK Common Message Set
