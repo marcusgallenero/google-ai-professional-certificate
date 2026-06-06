@@ -1,0 +1,1 @@
+I want to build an app that takes .csv files of hourly energy consumption and visualizes usage patterns with interactive graphs and predictive analytics. Users should also be given feedback to help them reduce power usage and cost-saving tips tailored to their specific consumption habits.
