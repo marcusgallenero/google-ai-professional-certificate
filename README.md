@@ -19,7 +19,7 @@ This repository documents my hands-on application of AI to solve complex enginee
   - **Summary:** Used Gemini to extract unformatted text from an image, converting it into an organized spreadsheet via automated AI functions
   - **Skills Gained:** Multimodal Prompting, Automated Data Cleaning, Structured Spreadsheet Analysis 
 
-### 3️⃣ [AI for App Building](./courses07-app-building/)
+### 3️⃣ [AI for App Building](./course07-app-building/)
 - **Energy Consumption Analyzer**
   - **Summary:** Utilized vibe-coding to program and test a fully operational web application
   - **Skills Gained:** Vibe Coding, AI-Driven Debugging/Testing, Prompt Chaining
