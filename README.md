@@ -10,8 +10,13 @@ This repository documents my hands-on application of AI to solve complex enginee
 ## 📁 Featured Projects
 
 ### 1️⃣ [AI for Research and Insights](./course03-research-and-insights/)
-- **Module 2 Lab: Grounded AI Drone Research Hub**
+- **Grounded AI Drone Research Hub**
   - **Summary:** Created a technical research environment using Google NotebookLM
   - **Skills Gained:** Source Grounding, System Prompting, AI-Assisted R&D Workflow Automation
+
+### 2️⃣ [AI for Data Analysis](./couse06-data-analysis/)
+- **Multimodal Automated Data Pipeline**
+  - **Summary:** Used Gemini to extract unformatted text from an image, converting it into an organized spreadsheet via automated AI functions
+  - **Skills Gained:** Multimodal Prompting, Automated Data Cleaning, Structured Spreadsheet Analysis 
 
  **More to be added soon...**
